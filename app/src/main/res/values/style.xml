@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaterialBar">
+        <item name="android:background">@drawable/material_bar</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:background">@drawable/button_enable</item>
+    </style>
+
+    <style name="EditText">
+        <item name="android:background">@drawable/edit_text</item>
+    </style>
+
+    <style name="BackgroundUser">
+        <item name="android:background">@drawable/background_user</item>
+    </style>
+</resources>

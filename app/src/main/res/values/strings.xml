@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz das bandeiras</string>
+    <string name="material_name">Quiz das bandeiras</string>
+    <string name="question">Que país é esse?</string>
+    <string name="created_by_me">Created by João Neris</string>
+    <string name="button">Responder</string>
+    <string name="button_start">Iniciar quiz</string>
+    <string name="button_finish">Finalizar</string>
+</resources>
